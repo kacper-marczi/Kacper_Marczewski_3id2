@@ -36,8 +36,9 @@ var basehtml = [
             <a href="./gender">PŁEĆ</a>
             <a href="./show">POKAZ</a>
         </div>
-        <div id="main">`, `</div>
+        <div id="glowny">`, `</div>
         <div id="stupka">
+            <center><p>stupka</p></center>
         </div>
     </body>
     
@@ -45,8 +46,8 @@ var basehtml = [
 ]
 
 
-var bodyParser = require("body-parser")   //
-app.use(bodyParser.urlencoded({ extended: true }));    //
+var bodyParser = require("body-parser")   
+app.use(bodyParser.urlencoded({ extended: true }));    
 
 
 app.get("/", function (req, res) {
