@@ -1,12 +1,12 @@
-#naglowek-one a {
+#naglowek-1 a {
     color: black;
 }
 
-#naglowek-two a {
+#naglowek-2 a {
     color: black;
 }
 
-#naglowek-one {
+#naglowek-1 {
     position: absolute;
     top: 0%;
     left: 0%;
@@ -19,7 +19,7 @@
     padding-left: 1%;
 }
 
-#naglowek-two {
+#naglowek-2 {
     position: absolute;
     top: 5%;
     left: 0%;
