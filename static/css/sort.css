@@ -1,0 +1,70 @@
+#naglowek-one a {
+    color: black;
+}
+
+#naglowek-two a {
+    color: black;
+}
+
+#naglowek-one {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 4%;
+    width: 99%;
+    background-color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    padding-top: 1%;
+    padding-left: 1%;
+}
+
+#naglowek-two {
+    position: absolute;
+    top: 5%;
+    left: 0%;
+    height: 4%;
+    width: 99%;
+    background-color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    padding-top: 1%;
+    padding-left: 1%;
+}
+
+#glowny {
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    height: 85%;
+    width: 100%;
+    background-color: lightgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: black;
+}
+
+#glowny table {
+    margin: auto;
+}
+#glowny td {
+    border: 1px solid darkgray;
+    width: 150px;
+}
+#glowny th {
+    border: 1px solid darkgray;
+    width: 150px;
+}
+
+#stupka {
+    position: absolute;
+    padding-right: 1%;
+    height: 5%;
+    width: 99%;
+    top: 95%;
+    left: 0%;
+    background-color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: right;
+    color: black;
+}
