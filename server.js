@@ -21,7 +21,7 @@ var basehtml = [
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Mini-Projekt</title>
+        <title>Kacper Marczewski 3id</title>
         <link rel="stylesheet" href="../css/`, `.css">
     </head>
     
